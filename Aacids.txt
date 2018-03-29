@@ -1,0 +1,4 @@
+Alanine		Ala
+Arginine	Arg
+Asparagine	Asn
+Aspartic acid	Asp
